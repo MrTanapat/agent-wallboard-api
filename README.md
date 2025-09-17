@@ -27,6 +27,4 @@ npm run dev
 
 # 4. Test API
 curl http://localhost:3001/api/health
-
-
-
+```
